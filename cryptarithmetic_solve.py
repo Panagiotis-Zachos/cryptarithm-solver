@@ -78,7 +78,6 @@ if __name__ == "__main__":
                 yEquiv = wordVal(yVals, yProd)
                 zEquiv = wordVal(zVals, zProd)
                 if xEquiv + yEquiv == zEquiv:
-                        #rint(perm)
                         xSol = ''.join(str(e) for e in xVals)
                         ySol = ''.join(str(e) for e in yVals)
                         zSol = ''.join(str(e) for e in zVals)

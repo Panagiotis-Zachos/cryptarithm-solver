@@ -17,6 +17,7 @@ Program works as follows:
 5. Check each permutation that the above conditions apply to.
 
 The checking goes as follows:
+
 a) For each letter in the letters list the appropriate value is applied, this goes through every different letter, for all of the three words given as input.
         
 b) The values are stored in an array xValue, yValue and zValue, and multiplied by the appropriate power of 10, stored in the xProd, yProd and zProd lists.

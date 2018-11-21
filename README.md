@@ -1,4 +1,7 @@
-# cryptarithm-solver
+# Cryptarithm-Solver
+
+Written in python 3.7.0.
+
 A program that solves cryptarithms in the form of SEND + MORE = MONEY
 and outputs every possible solution.
 
